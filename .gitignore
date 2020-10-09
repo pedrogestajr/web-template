@@ -1,0 +1,4 @@
+# Ignores this folders/files
+node_modules
+dist
+.cache
